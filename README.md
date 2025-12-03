@@ -46,6 +46,7 @@ LLM-Преподаватель: Ctrl + Check / Образование. Зада�
 - Скрипт для пошаговой обработки test.csv с докозапуском и логированием голосов.
 
   Для корректного запуска проекта, у вас должны быть свои вышеперечисленные файлы (train.csv; test.csv)
+  
 Inference script is not included, as it may be restricted by competition rules.
 To participate or reproduce results, you should build your own inference.py based on the competition format and ensure that outputs match the required submission schema.
 
